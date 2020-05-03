@@ -1,0 +1,14 @@
+﻿body
+{
+}
+.fixedtextbox{
+    resize:none;
+}
+.subtitulo{
+    text-align:center;
+}
+.center{
+    width: 50%;
+    margin:auto;
+
+}
