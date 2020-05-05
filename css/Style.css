@@ -1,5 +1,8 @@
-﻿body
-{
+﻿body {
+    background-image:url("../images/Background0.jpg");
+    background-repeat:no-repeat;
+    background-size: cover;
+    
 }
 .fixedtextbox{
     resize:none;
