@@ -1,7 +1,9 @@
 ﻿body {
-    background-image:url("../images/Background0.jpg");
+    background-image:url("../images/Background3.jpg");
     background-repeat:no-repeat;
-    background-size: cover;
+    background-size: 100%, 100%;
+    font-family:jost;
+
     
 }
 .fixedtextbox{
@@ -13,5 +15,23 @@
 .center{
     width: 50%;
     margin:auto;
+    
 
+}
+.text1{
+    font-size: 30px;
+
+}
+.titulo{
+    
+    text-align:center;
+    font-size: 65px;
+}
+@font-face {
+    font-family: robotolight;
+    src: url("../css/Fonts/Roboto-Light.ttf");
+}
+@font-face {
+    font-family: jost;
+    src: url("../css/Fonts/Jost-Medium.ttf");
 }
