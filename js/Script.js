@@ -9,3 +9,6 @@ function enviar(){
         alert("Complete los campos");
     }
 }
+function voidlink() {
+    alert("No implementado");
+}
