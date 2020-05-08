@@ -10,5 +10,5 @@ function enviar(){
     }
 }
 function voidlink() {
-    alert("No implementado");
+    alert("Proximamente.");
 }
